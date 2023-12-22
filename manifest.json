@@ -1,0 +1,11 @@
+{
+  "name": "Random Quote Generator",
+  "version": "1.0.0",
+  "description": "Daily inspirational quotes for living",
+  "manifest_version": 3,
+  "author": "Daniel Narh",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Random Quotes"
+  }
+}
